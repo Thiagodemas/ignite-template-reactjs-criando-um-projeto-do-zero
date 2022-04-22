@@ -1,7 +1,7 @@
 export function Header(): JSX.Element {
   return (
     <header>
-      <h1>teste</h1>
+      <img src="/images/logo.svg" alt="" />
     </header>
   );
 }
